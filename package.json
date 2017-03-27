@@ -1,0 +1,25 @@
+{
+  "name": "ng-include",
+  "version": "1.0.0",
+  "description": "Adds ngInclude directive from angular 1 to angularJS",
+  "main": "ngInclude.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaszgh/angular2-ngInclude.git"
+  },
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "angular2",
+    "nginclude"
+  ],
+  "author": "Anas Aref",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anaszgh/angular2-ngInclude/issues"
+  },
+  "homepage": "https://github.com/anaszgh/angular2-ngInclude#readme"
+}
